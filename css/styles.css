@@ -1,0 +1,131 @@
+
+
+.failure-title h1,h2,p,h5{
+    color: black;
+    
+}
+
+.headerpart{
+    
+    max-width: 100%;
+    text-align: right;
+    height: 100vh;
+    display: block;
+    justify-content: end;
+    align-items: center;
+    background-image: url(../images/banner/banner3.png);
+    
+    
+}
+   
+.partheader{
+    margin-right: 200px;
+    
+    
+}
+   
+
+
+h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+p{
+    font-size: 18px;
+    
+
+}
+
+button{
+    font-size: 15px;
+    background-color: rgba(0, 0, 255, 0.415);
+    padding: 13px;
+    
+
+}
+
+.failureyears{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+ul{
+    display: inherit;
+    gap: 5px;
+}
+
+ul li{
+    list-style: none;
+    
+}
+
+ul li img{
+    width:10px;
+}
+
+.plans{
+    text-align: center;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+
+}
+
+.myplans{
+    margin-top: 40px;
+}
+
+.positive-mindset{
+    max-width: 900px;
+    text-align: start;
+    margin-top: 90px;
+    margin-left: 400px;
+    background-image: url(../images/gradient1.png), url(../images/watch.png);
+    min-height: 200px;
+    margin-bottom: 50px;
+}
+
+.btn-primary{
+    color: blue;
+    text-align: -moz-left;
+    background-color: white;
+    text-align: initial;
+}
+
+
+.keep{
+    color: white;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
+    background-color: black;
+    min-height: 400px;
+}
+
+.future{
+    margin-left: 150px;
+
+    
+}
+
+.future h1,h2,p,h5{
+
+    color: white;
+}
+
+
+input{
+    display: block;
+    padding: 20px;
+}
